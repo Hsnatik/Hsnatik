@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Hasan</h1>
-<h3 align="center">⚡ A passionate jr Software Developer from Turkey</h3>
-<h3 align="center">I am an Electrical and Electronics Engineer</h3>
+<h1 align="center">Hi :wave:, I'm Hasan</h1>
+<h3 align="center">:zap: A passionate jr Software Developer from Turkey</h3>
+<h3 align="center">:mortar_board: I am an Electrical and Electronics Engineer</h3>
 
 
 <p align="center" ><img 
