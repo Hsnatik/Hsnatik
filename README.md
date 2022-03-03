@@ -1,10 +1,12 @@
 <h1 align="center">Hi :wave:, I'm Hasan</h1>
+<p align="center" ><img 
+ src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif" width="30%"/></p>
 <h3 align="center">:zap: A passionate jr Software Developer from Turkey</h3>
 <h3 align="center">:mortar_board: I am an Electrical and Electronics Engineer</h3>
 
 
-<p align="center" ><img 
- src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif" width="30%"/></p>
+<br>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
